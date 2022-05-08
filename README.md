@@ -1,13 +1,13 @@
 # Cmedia CMI8738 Driver Collection
 
-All drivers of **Cmedia CMI8738** has been extracted from CD Driver when I bought the audio card - CMI8738.
+All drivers of **Cmedia CMI8738** has been extracted from **CD Driver** when I bought the audio card - CMI8738 on May 8, 2022.
 
 ![Audio Card - Cmedia CMI8738](/images/1.jpg)
 
 ![CD Drivers](/images/2.jpg)
 
 
-This is a list of suported platforms coming from **CD Driver**. For each directory, I will zip it and do **md5sum**.
+This is a list of suported platforms coming from **CD Driver**. For each directory, I will zip it and do **md5sum**, and **sha256sum**.
 ```
 .
 └── CMI8738
@@ -19,7 +19,7 @@ This is a list of suported platforms coming from **CD Driver**. For each directo
     └── Win8
 ```
 
-| File Name          | MD5sum                           | SHA256sum                                                        |
+| File Name          | md5sum                           | sha256sum                                                        |
 |--------------------|----------------------------------|------------------------------------------------------------------|
 | 98,SE,ME,2K,XP.zip | 4b5c4b9f385e776acd39f8f64738fd04 | 38fce2e5b7f90d746b7910ce95d3b48ec949f0225949163b74cfcb07bff338ca |
 | WIN 2K,XP.zip      | 592fbd4af9d53433c34c3ff597d8a2cb | 95015c27f2369a1676d8b29fad587ce5044fdce770dee0b222f5257e089e7548 |
@@ -28,4 +28,4 @@ This is a list of suported platforms coming from **CD Driver**. For each directo
 | Win8.zip           | 41e0d81e0a8b7d97c4ebf289e5a0be5c | 649f8fb3cb0d8d0422785f1c7b1a90a3e348d50907d063896240092ec58620ca |
 | Win10.zip          | ebcba9ffe328e3a967123197b5072713 | 516f49982606fe7eaa106fb5cadf3943d6a7ab6ba8aba23b65b9efa24ffd0833 |
 
-To download those files, please go to github release of this repository.
+To download those files, please go to [github release](https://github.com/nguyenvinhlinh/Cmedia-CMI8738-Driver-Collection/releases) of this repository.
